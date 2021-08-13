@@ -1,4 +1,4 @@
-# Symfony as an API platform
+# Symfony app as an API platform
 
 Symfony 5 app serving as an API platform built with NelmioApiDocBundle.
 
